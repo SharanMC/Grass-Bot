@@ -23,6 +23,7 @@ Automated node management solution for Grass Network - a decentralized bandwidth
 2. Configure your wallet addresses in `.ini`  
 3. Set up proxies (if running multiple instances)  
 4. Launch `.exe`  
+![image](https://github.com/user-attachments/assets/473d7a91-4581-4dc9-bae1-c56afebc1df4)
 
 ### 🔍 SEO-Optimized Tags  
 - Grass-Desktop-Node  
